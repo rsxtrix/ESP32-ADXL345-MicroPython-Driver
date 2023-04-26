@@ -11,3 +11,10 @@ Data is displayed exactly how it is received. You can convert it to G's fairly e
 
 Save the adxl345.py file to your ESP32, and you can just run the test program without saving it directly to the device.
 
+The correct wiring is as follows:
+| ESP32        | ADXL345        |
+| ------------- |:-------------:|
+| 3V3      | VCC |
+| GND      | GND      |
+| SDA | Pin 21      |
+| SCL | Pin 22      |
