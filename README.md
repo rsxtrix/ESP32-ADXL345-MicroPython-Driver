@@ -18,3 +18,10 @@ The correct wiring is as follows:
 | GND      | GND      |
 | SDA | Pin 21      |
 | SCL | Pin 22      |
+
+To-Do:  
+Develop more features into the driver  
+G-unit to m/s^2 conversion  
+Peak-hold acceleration  
+Speed calculation  
+Etc...?
